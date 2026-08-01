@@ -13,11 +13,15 @@
 ![EDA](https://img.shields.io/badge/EDA-Data_Analysis-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Beingnav/fandango-ratings-analysis/blob/main/Notebook/Fandango_Ratings_Analysis.ipynb)
+
 ---
 
 ### ⭐ Exploratory Data Analysis of Fandango Movie Ratings
 
 **Analyzing rating patterns, identifying potential rating bias, and comparing Fandango ratings with other major movie review platforms using Python and Data Visualization.**
+
+### 🚀 [Live Demo — Run the Notebook in Google Colab](https://colab.research.google.com/github/Beingnav/fandango-ratings-analysis/blob/main/Notebook/Fandango_Ratings_Analysis.ipynb)
 
 </div>
 
@@ -179,6 +183,12 @@ All charts are generated directly from the analysis notebook and saved to
 ---
 
 # ▶️ How to Run
+
+**Quickest option — no installation:** open the notebook directly in
+[Google Colab](https://colab.research.google.com/github/Beingnav/fandango-ratings-analysis/blob/main/Notebook/Fandango_Ratings_Analysis.ipynb)
+and run it top to bottom in your browser.
+
+**Run locally:**
 
 1. Clone the repo and install dependencies:
    ```bash
